@@ -4,11 +4,10 @@
 
 We will get an error
 
-<h4>
+
 ```
 Cannot use import statement outside a module
 ```
-</h4>
  because the browser doesn't know how to resolve lodash code. So, we need to install webpack cli.
 
 #### Export multiple entry points
